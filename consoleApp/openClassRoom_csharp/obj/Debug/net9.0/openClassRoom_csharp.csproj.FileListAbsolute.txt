@@ -1,0 +1,15 @@
+C:\Users\max-9\OneDrive\Bureau\Test revision\revision_prog\consoleApp\openClassRoom_csharp\bin\Debug\net9.0\openClassRoom_csharp.exe
+C:\Users\max-9\OneDrive\Bureau\Test revision\revision_prog\consoleApp\openClassRoom_csharp\bin\Debug\net9.0\openClassRoom_csharp.deps.json
+C:\Users\max-9\OneDrive\Bureau\Test revision\revision_prog\consoleApp\openClassRoom_csharp\bin\Debug\net9.0\openClassRoom_csharp.runtimeconfig.json
+C:\Users\max-9\OneDrive\Bureau\Test revision\revision_prog\consoleApp\openClassRoom_csharp\bin\Debug\net9.0\openClassRoom_csharp.dll
+C:\Users\max-9\OneDrive\Bureau\Test revision\revision_prog\consoleApp\openClassRoom_csharp\bin\Debug\net9.0\openClassRoom_csharp.pdb
+C:\Users\max-9\OneDrive\Bureau\Test revision\revision_prog\consoleApp\openClassRoom_csharp\obj\Debug\net9.0\openClassRoom_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max-9\OneDrive\Bureau\Test revision\revision_prog\consoleApp\openClassRoom_csharp\obj\Debug\net9.0\openClassRoom_csharp.AssemblyInfoInputs.cache
+C:\Users\max-9\OneDrive\Bureau\Test revision\revision_prog\consoleApp\openClassRoom_csharp\obj\Debug\net9.0\openClassRoom_csharp.AssemblyInfo.cs
+C:\Users\max-9\OneDrive\Bureau\Test revision\revision_prog\consoleApp\openClassRoom_csharp\obj\Debug\net9.0\openClassRoom_csharp.csproj.CoreCompileInputs.cache
+C:\Users\max-9\OneDrive\Bureau\Test revision\revision_prog\consoleApp\openClassRoom_csharp\obj\Debug\net9.0\openClassRoom_csharp.sourcelink.json
+C:\Users\max-9\OneDrive\Bureau\Test revision\revision_prog\consoleApp\openClassRoom_csharp\obj\Debug\net9.0\openClassRoom_csharp.dll
+C:\Users\max-9\OneDrive\Bureau\Test revision\revision_prog\consoleApp\openClassRoom_csharp\obj\Debug\net9.0\refint\openClassRoom_csharp.dll
+C:\Users\max-9\OneDrive\Bureau\Test revision\revision_prog\consoleApp\openClassRoom_csharp\obj\Debug\net9.0\openClassRoom_csharp.pdb
+C:\Users\max-9\OneDrive\Bureau\Test revision\revision_prog\consoleApp\openClassRoom_csharp\obj\Debug\net9.0\openClassRoom_csharp.genruntimeconfig.cache
+C:\Users\max-9\OneDrive\Bureau\Test revision\revision_prog\consoleApp\openClassRoom_csharp\obj\Debug\net9.0\ref\openClassRoom_csharp.dll
