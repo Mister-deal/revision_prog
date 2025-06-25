@@ -1,0 +1,14 @@
+C:\Users\max-9\OneDrive\Bureau\dotNet_COURS\dotNet_cours_1\bin\Debug\net8.0\dotNet_cours_1.exe
+C:\Users\max-9\OneDrive\Bureau\dotNet_COURS\dotNet_cours_1\bin\Debug\net8.0\dotNet_cours_1.deps.json
+C:\Users\max-9\OneDrive\Bureau\dotNet_COURS\dotNet_cours_1\bin\Debug\net8.0\dotNet_cours_1.runtimeconfig.json
+C:\Users\max-9\OneDrive\Bureau\dotNet_COURS\dotNet_cours_1\bin\Debug\net8.0\dotNet_cours_1.dll
+C:\Users\max-9\OneDrive\Bureau\dotNet_COURS\dotNet_cours_1\bin\Debug\net8.0\dotNet_cours_1.pdb
+C:\Users\max-9\OneDrive\Bureau\dotNet_COURS\dotNet_cours_1\obj\Debug\net8.0\dotNet_cours_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max-9\OneDrive\Bureau\dotNet_COURS\dotNet_cours_1\obj\Debug\net8.0\dotNet_cours_1.AssemblyInfoInputs.cache
+C:\Users\max-9\OneDrive\Bureau\dotNet_COURS\dotNet_cours_1\obj\Debug\net8.0\dotNet_cours_1.AssemblyInfo.cs
+C:\Users\max-9\OneDrive\Bureau\dotNet_COURS\dotNet_cours_1\obj\Debug\net8.0\dotNet_cours_1.csproj.CoreCompileInputs.cache
+C:\Users\max-9\OneDrive\Bureau\dotNet_COURS\dotNet_cours_1\obj\Debug\net8.0\dotNet_cours_1.dll
+C:\Users\max-9\OneDrive\Bureau\dotNet_COURS\dotNet_cours_1\obj\Debug\net8.0\refint\dotNet_cours_1.dll
+C:\Users\max-9\OneDrive\Bureau\dotNet_COURS\dotNet_cours_1\obj\Debug\net8.0\dotNet_cours_1.pdb
+C:\Users\max-9\OneDrive\Bureau\dotNet_COURS\dotNet_cours_1\obj\Debug\net8.0\dotNet_cours_1.genruntimeconfig.cache
+C:\Users\max-9\OneDrive\Bureau\dotNet_COURS\dotNet_cours_1\obj\Debug\net8.0\ref\dotNet_cours_1.dll
