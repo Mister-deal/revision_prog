@@ -27,6 +27,7 @@ public class GestionnaireStock
         if (stock.ContainsKey(nom))
         {
             stock[nom] -= quantite;
+            Console.WriteLine($"produit retiré: {nom} ({quantite}), total: {stock[nom]}");
         }
         else
         {
