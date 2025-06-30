@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\max-9\\OneDrive\\Bureau\\dotNet_COURS\\fonction_dotNet\\fonction_dotNet.csproj",
+      "projectUniqueName": "C:\\Users\\max-9\\OneDrive\\Bureau\\Dev\\revision_prog\\dotNet_COURS\\fonction_dotNet\\fonction_dotNet.csproj",
       "projectName": "fonction_dotNet",
-      "projectPath": "C:\\Users\\max-9\\OneDrive\\Bureau\\dotNet_COURS\\fonction_dotNet\\fonction_dotNet.csproj",
+      "projectPath": "C:\\Users\\max-9\\OneDrive\\Bureau\\Dev\\revision_prog\\dotNet_COURS\\fonction_dotNet\\fonction_dotNet.csproj",
       "packagesPath": "C:\\Users\\max-9\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\max-9\\OneDrive\\Bureau\\dotNet_COURS\\fonction_dotNet\\obj\\",
+      "outputPath": "C:\\Users\\max-9\\OneDrive\\Bureau\\Dev\\revision_prog\\dotNet_COURS\\fonction_dotNet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\Calculatrice\bin\Debug\net8.0\Calculatrice.exe
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\Calculatrice\bin\Debug\net8.0\Calculatrice.deps.json
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\Calculatrice\bin\Debug\net8.0\Calculatrice.runtimeconfig.json
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\Calculatrice\bin\Debug\net8.0\Calculatrice.dll
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\Calculatrice\bin\Debug\net8.0\Calculatrice.pdb
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\Calculatrice\obj\Debug\net8.0\Calculatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\Calculatrice\obj\Debug\net8.0\Calculatrice.AssemblyInfoInputs.cache
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\Calculatrice\obj\Debug\net8.0\Calculatrice.AssemblyInfo.cs
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\Calculatrice\obj\Debug\net8.0\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\Calculatrice\obj\Debug\net8.0\Calculatrice.sourcelink.json
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\Calculatrice\obj\Debug\net8.0\Calculatrice.dll
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\Calculatrice\obj\Debug\net8.0\refint\Calculatrice.dll
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\Calculatrice\obj\Debug\net8.0\Calculatrice.pdb
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\Calculatrice\obj\Debug\net8.0\Calculatrice.genruntimeconfig.cache
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\Calculatrice\obj\Debug\net8.0\ref\Calculatrice.dll
