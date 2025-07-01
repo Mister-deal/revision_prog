@@ -4,7 +4,7 @@ namespace Employe.Classes;
 
 public class Engineer : Employe, Itravailleur
 {
-    string Specialite;
+    public string Specialite { get; set; }
 
 
     public Engineer(string Nom, decimal Salaire, string specialite) : base(Nom, Salaire)

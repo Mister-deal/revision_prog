@@ -25,9 +25,9 @@ public abstract class Employe
         return this.Salaire * value;
     }
 
-    public static int AfficherNombreEmployes()
+    public static void AfficherNombreEmployes()
     {
-        return NombreTotalEmployes;
+        Console.WriteLine($"nombre: {NombreTotalEmployes}");
     }
 
 
