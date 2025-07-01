@@ -4,16 +4,13 @@ namespace Employe.Classes;
 
 public class Entreprise
 {
-    List<Itravailleur> effectifs = new List<Itravailleur>();
-
-    public List<Itravailleur> Effectifs;
+    public List<Itravailleur> effectifs { get; } = new List<Itravailleur>();
     
-
     public void EffectuerTravail()
     {
-        foreach (List<Itravailleur> effectif in Effectifs)
+        foreach (var effectif in effectifs)
         {
-            
+            Console.WriteLine(effectif.travailler());
         }
     }
 }

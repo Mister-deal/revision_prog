@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using Employe.Classes;
+using Employe.Interfaces;
 
 static void Main(string[] args)
 {
@@ -9,5 +10,10 @@ static void Main(string[] args)
     Engineer engineer = new Engineer("Cedric dubois", 1900.3m, "data engineering");
     Engineer engineer1 = new Engineer("didier dubois", 1950.3m, "Web programming");
     
+    Nestle.effectifs.Add(engineer);
+    Nestle.effectifs.Add(engineer1);
+    Nestle.effectifs.Add(manager);
+    Console.WriteLine(Nestle.effectifs.ToString());
+    Nestle.EffectuerTravail();
 
 }

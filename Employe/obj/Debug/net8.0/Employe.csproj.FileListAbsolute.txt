@@ -1,0 +1,15 @@
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\Employe\bin\Debug\net8.0\Employe.exe
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\Employe\bin\Debug\net8.0\Employe.deps.json
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\Employe\bin\Debug\net8.0\Employe.runtimeconfig.json
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\Employe\bin\Debug\net8.0\Employe.dll
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\Employe\bin\Debug\net8.0\Employe.pdb
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\Employe\obj\Debug\net8.0\Employe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\Employe\obj\Debug\net8.0\Employe.AssemblyInfoInputs.cache
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\Employe\obj\Debug\net8.0\Employe.AssemblyInfo.cs
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\Employe\obj\Debug\net8.0\Employe.csproj.CoreCompileInputs.cache
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\Employe\obj\Debug\net8.0\Employe.sourcelink.json
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\Employe\obj\Debug\net8.0\Employe.dll
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\Employe\obj\Debug\net8.0\refint\Employe.dll
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\Employe\obj\Debug\net8.0\Employe.pdb
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\Employe\obj\Debug\net8.0\Employe.genruntimeconfig.cache
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\Employe\obj\Debug\net8.0\ref\Employe.dll
