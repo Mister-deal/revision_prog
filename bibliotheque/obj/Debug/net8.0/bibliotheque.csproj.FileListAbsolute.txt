@@ -1,0 +1,15 @@
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\bibliotheque\bin\Debug\net8.0\bibliotheque.exe
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\bibliotheque\bin\Debug\net8.0\bibliotheque.deps.json
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\bibliotheque\bin\Debug\net8.0\bibliotheque.runtimeconfig.json
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\bibliotheque\bin\Debug\net8.0\bibliotheque.dll
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\bibliotheque\bin\Debug\net8.0\bibliotheque.pdb
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\bibliotheque\obj\Debug\net8.0\bibliotheque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\bibliotheque\obj\Debug\net8.0\bibliotheque.AssemblyInfoInputs.cache
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\bibliotheque\obj\Debug\net8.0\bibliotheque.AssemblyInfo.cs
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\bibliotheque\obj\Debug\net8.0\bibliotheque.csproj.CoreCompileInputs.cache
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\bibliotheque\obj\Debug\net8.0\bibliotheque.sourcelink.json
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\bibliotheque\obj\Debug\net8.0\bibliotheque.dll
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\bibliotheque\obj\Debug\net8.0\refint\bibliotheque.dll
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\bibliotheque\obj\Debug\net8.0\bibliotheque.pdb
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\bibliotheque\obj\Debug\net8.0\bibliotheque.genruntimeconfig.cache
+C:\Users\max-9\OneDrive\Bureau\Dev\revision_prog\bibliotheque\obj\Debug\net8.0\ref\bibliotheque.dll
