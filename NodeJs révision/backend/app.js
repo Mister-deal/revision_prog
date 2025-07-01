@@ -5,12 +5,13 @@ const bodyParser = require('body-parser');
 
 const stuffRouter = require('./routes/stuff');
 
-
-mongoose.connect('mongodb+srv://max:Maxime1994.@cluster0.7qlripn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
+/*
+mongoose.connect('mongodb+srv://@cluster0.7qlripn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
     { useNewUrlParser: true,
         useUnifiedTopology: true })
     .then(() => console.log('Connexion à MongoDB réussie !'))
     .catch(() => console.log('Connexion à MongoDB échouée !'));
+    */
 
 
 const app = express();
